@@ -1,6 +1,6 @@
 = MTOM Sample
 
-This sample shows how to use marshal and unmarshal MTOM attachments using JAXB2.
+This sample shows how to use marshal and unmarshal MTOM attachments using JAXB2.  Modified to send/receive signature
 
 == Build and deploy
 
