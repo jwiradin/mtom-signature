@@ -1,0 +1,12 @@
+org\springframework\ws\samples\mtom\schema\StoreContentRequest.class
+org\springframework\ws\samples\mtom\ws\ContentRepositoryEndpoint.class
+org\springframework\ws\samples\mtom\schema\package-info.class
+org\springframework\ws\samples\mtom\config\SoapServerConfig.class
+org\springframework\ws\samples\mtom\schema\LoadContentResponse.class
+org\springframework\ws\samples\mtom\schema\StoreContentResponse.class
+org\springframework\ws\samples\mtom\schema\LoadContentRequest.class
+org\springframework\ws\samples\mtom\service\ContentRepositoryImpl.class
+org\springframework\ws\samples\mtom\schema\ObjectFactory.class
+org\springframework\ws\samples\mtom\config\MtomServerConfiguration.class
+org\springframework\ws\samples\mtom\MtomServer.class
+org\springframework\ws\samples\mtom\service\ContentRepository.class

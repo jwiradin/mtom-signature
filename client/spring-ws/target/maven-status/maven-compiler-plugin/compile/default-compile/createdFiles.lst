@@ -1,0 +1,8 @@
+org\springframework\ws\samples\mtom\client\sws\package-info.class
+org\springframework\ws\samples\mtom\client\sws\SaajMtomClient.class
+org\springframework\ws\samples\mtom\client\sws\LoadContentResponse.class
+org\springframework\ws\samples\mtom\client\sws\MtomClientConfig.class
+org\springframework\ws\samples\mtom\client\sws\LoadContentRequest.class
+org\springframework\ws\samples\mtom\client\sws\StoreContentRequest.class
+org\springframework\ws\samples\mtom\client\sws\ObjectFactory.class
+org\springframework\ws\samples\mtom\client\sws\StoreContentResponse.class

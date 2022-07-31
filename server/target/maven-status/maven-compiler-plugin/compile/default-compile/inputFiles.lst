@@ -1,0 +1,12 @@
+D:\ws\spring-ws-samples\mtom\server\src\main\java\org\springframework\ws\samples\mtom\service\ContentRepository.java
+D:\ws\spring-ws-samples\mtom\server\target\generated-sources\jaxb\org\springframework\ws\samples\mtom\schema\LoadContentResponse.java
+D:\ws\spring-ws-samples\mtom\server\target\generated-sources\jaxb\org\springframework\ws\samples\mtom\schema\StoreContentResponse.java
+D:\ws\spring-ws-samples\mtom\server\src\main\java\org\springframework\ws\samples\mtom\ws\ContentRepositoryEndpoint.java
+D:\ws\spring-ws-samples\mtom\server\src\main\java\org\springframework\ws\samples\mtom\config\MtomServerConfiguration.java
+D:\ws\spring-ws-samples\mtom\server\target\generated-sources\jaxb\org\springframework\ws\samples\mtom\schema\LoadContentRequest.java
+D:\ws\spring-ws-samples\mtom\server\src\main\java\org\springframework\ws\samples\mtom\service\ContentRepositoryImpl.java
+D:\ws\spring-ws-samples\mtom\server\src\main\java\org\springframework\ws\samples\mtom\config\SoapServerConfig.java
+D:\ws\spring-ws-samples\mtom\server\target\generated-sources\jaxb\org\springframework\ws\samples\mtom\schema\package-info.java
+D:\ws\spring-ws-samples\mtom\server\src\main\java\org\springframework\ws\samples\mtom\MtomServer.java
+D:\ws\spring-ws-samples\mtom\server\target\generated-sources\jaxb\org\springframework\ws\samples\mtom\schema\StoreContentRequest.java
+D:\ws\spring-ws-samples\mtom\server\target\generated-sources\jaxb\org\springframework\ws\samples\mtom\schema\ObjectFactory.java
